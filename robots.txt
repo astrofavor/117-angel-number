@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://astrofavor.github.io/117-angel-number/sitemap.xml
